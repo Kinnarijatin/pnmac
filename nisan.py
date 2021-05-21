@@ -1,0 +1,1 @@
+print ("i love nisan i dont want bmw bc its too goddamn expensive and worthless")
